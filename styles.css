@@ -1,3 +1,7 @@
+body {
+    background-color: #89aeeb;
+}
+
 .links {
     list-style-type: none;
     justify-content: space-evenly;
@@ -7,8 +11,30 @@
 .nav-link {
     text-decoration: none;
     display: inline-block;
+    background-color: #91eb89;
 }
 
 .wrapper {
     margin: 0 auto;
+}
+
+.header {
+    justify-content: center;
+    display: flex;
+}
+
+.paragraph {
+    justify-content: center;
+    display: flex;
+    color: white;
+}
+
+.main-content {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    background-image: url(john-ward-Nf_84aTqOvk-unsplash.jpg);
+    min-height: 900px;
+    background-size: cover;
+    opacity: 85%;
 }
