@@ -137,3 +137,29 @@ body {
     justify-content: center;
     display: flex;
 }
+
+.map-header {
+    justify-content: center;
+    display: flex;
+}
+
+.map-links {
+    list-style-type: none;
+    justify-content: center;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.map {
+    background-color: #91eb89;
+    padding: 5px;
+}
+
+.map-div {
+    justify-content: center;
+    display: flex;
+}
+
+.map-image {
+    width: 75%;
+}
