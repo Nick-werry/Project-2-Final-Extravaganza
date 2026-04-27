@@ -22,6 +22,7 @@ body {
 .header {
     justify-content: center;
     display: flex;
+    font-family: "Rubik Microbe", system-ui;
 }
 
 .paragraph {
@@ -76,6 +77,7 @@ body {
 .trail-header {
     justify-content: center;
     display: flex;
+    font-family: "Rubik Microbe", system-ui;
 }
 
 .trails-information {
