@@ -163,3 +163,101 @@ body {
 .map-image {
     width: 75%;
 }
+
+.plants-header {
+    justify-content: center;
+    display: flex;
+}
+
+.plants-links {
+    justify-content: center;
+    display: flex;
+    list-style-type: none;
+    justify-content: space-evenly;
+}
+
+.plants {
+    background-color: #91eb89;
+    padding: 5px;
+}
+
+.plants-main {
+    text-align: center;
+    list-style-type: none;
+}
+
+.Organ-Pipe-Cactus {
+    justify-content: center;
+    display: flex;
+}
+
+.Barrel-Cactus {
+    justify-content: center;
+    display: flex;
+}
+
+.Palo-Verde {
+    justify-content: center;
+    display: flex;
+}
+
+.Desert-Marigold {
+    justify-content: center;
+    display: flex;
+}
+
+.More-species {
+    justify-content: center;
+    display: flex;
+}
+
+.george {
+    justify-content: center;
+    max-width: 500px;
+    max-height: 500px;
+}
+
+.michael {
+    justify-content: center;
+    max-width: 500px;
+    max-height: 500px;
+}
+
+.allison {
+    justify-content: center;
+    max-width: 500px;
+    max-height: 500px;
+}
+
+.chris {
+    justify-content: center;
+    max-width: 500px;
+    max-height: 500px;
+}
+
+.information-header {
+    justify-content: center;
+    display: flex;
+}
+
+.information-links {
+    list-style-type: none;
+    justify-content: center;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.information {
+    background-color: #91eb89;
+    padding: 5px;
+}
+
+.basic-information {
+    justify-content: center;
+    display: flex;
+}
+
+.basic {
+    justify-content: center;
+    display: flex;
+}
