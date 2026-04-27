@@ -90,6 +90,11 @@ body {
     text-align: center;
 }
 
+.trail-features {
+    justify-content: center;
+    display: flex;
+}
+
 .Ajo-Mountain-Trail {
     justify-content: center;
     display: flex;
@@ -135,6 +140,16 @@ body {
     display: flex;
 }
 
+.works-cited-2 {
+    justify-content: center;
+    display: flex;
+}
+
+.works-cited-3 {
+    justify-content: center;
+    display: flex;
+}
+
 .about-the-author {
     justify-content: center;
     display: flex;
@@ -143,6 +158,7 @@ body {
 .map-header {
     justify-content: center;
     display: flex;
+    font-family: "Rubik Microbe", system-ui;
 }
 
 .map-links {
@@ -169,6 +185,7 @@ body {
 .plants-header {
     justify-content: center;
     display: flex;
+    font-family: "Rubik Microbe", system-ui;
 }
 
 .plants-links {
@@ -240,6 +257,7 @@ body {
 .information-header {
     justify-content: center;
     display: flex;
+    font-family: "Rubik Microbe", system-ui;
 }
 
 .information-links {
