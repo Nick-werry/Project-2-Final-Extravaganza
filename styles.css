@@ -160,6 +160,11 @@ body {
     display: flex;
 }
 
+.works-cited-6 {
+    justify-content: center;
+    display: flex;
+}
+
 .about-the-author {
     justify-content: center;
     display: flex;
