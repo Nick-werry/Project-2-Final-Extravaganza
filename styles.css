@@ -150,6 +150,16 @@ body {
     display: flex;
 }
 
+.works-cited-4 {
+    justify-content: center;
+    display: flex;
+}
+
+.works-cited-5 {
+    justify-content: center;
+    display: flex;
+}
+
 .about-the-author {
     justify-content: center;
     display: flex;
@@ -188,6 +198,11 @@ body {
     font-family: "Rubik Microbe", system-ui;
 }
 
+.plants-underheader {
+    justify-content: center;
+    display: flex;
+}
+
 .plants-links {
     justify-content: center;
     display: flex;
@@ -220,7 +235,7 @@ body {
     display: flex;
 }
 
-.Desert-Marigold {
+.Brittlebush {
     justify-content: center;
     display: flex;
 }
@@ -278,6 +293,11 @@ body {
 }
 
 .basic {
+    justify-content: center;
+    display: flex;
+}
+
+.plants-information {
     justify-content: center;
     display: flex;
 }
